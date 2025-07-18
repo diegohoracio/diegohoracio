@@ -1,5 +1,5 @@
 - 🙂 Oi, eu sou @diegohoracio
-- 👀 Estou interesado em Design e Desenvolvimento Python
+- 👀 Estou interesado em Qualidade e Desenvolvimento Python
 - 🇧🇷 Brasil
 - 🌱 Hoje estou aprendendo JS, Python e outras tecnologias
 - 📫 Se quiser me encontrar, escreva para falecomigo.di@outlook.com
